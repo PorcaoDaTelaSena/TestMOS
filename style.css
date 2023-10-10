@@ -16,3 +16,12 @@ body{
     text-align: center;
 }
 
+.img-container{
+    text-align: right;
+}
+.fototapotente{
+    width: 49%; 
+}
+.img-container2{
+    text-align: left;
+}
